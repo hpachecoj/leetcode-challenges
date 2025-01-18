@@ -15,6 +15,6 @@ Permite a você garantir que uma classe tem apenas uma instância, enquanto prov
 
 
 ##  🔗 Fontes
-
-[DevMedia](https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249)
-[Medium](https://medium.com/@jonesroberto/desing-patterns-parte-2-2a61878846d)
+- [Visite o Refactoring Guru](https://refactoring.guru/pt-br/design-patterns/creational-patterns)
+- [DevMedia](https://www.devmedia.com.br/introducao-aos-padroes-criacionais-abstract-factory-factory-method-prototype-e-singleton/21249)
+- [Medium](https://medium.com/@jonesroberto/desing-patterns-parte-2-2a61878846d)
