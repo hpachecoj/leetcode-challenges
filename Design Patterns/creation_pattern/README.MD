@@ -102,7 +102,11 @@ Vamos usar como exemplo, um sistema de notificação em que utiliza-se três tip
     notificationService.sendNotification('push', 'Mensagem Push.')
   
   
- 
+ # Quando implementar o Factory Method
+
+- Use quando desejar economizar recursos do sistema reutilizando objetos existentes em vez de recriá-los sempre.
+- Use quando desejar fornecer aos usuários da sua biblioteca ou framework uma maneira de estender seus componentes internos.
+- Use quando não souber de antemão os tipos e dependências exatas dos objetos com os quais seu código deve funcionar.
  
     
   
